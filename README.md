@@ -2,7 +2,7 @@
 
 The lab session contains two parts of materials and exercises in the Google Colab environment:
 
-1. Visualization with network: [tutorial](https://colab.research.google.com/drive/1DRthva1mPb2zZpYtCHi1JL9-r3M9lstC), [exercise](https://colab.research.google.com/drive/1_aywQjVtiHjG_ElG5KAdzbGi0SeRxif7)
+1. PCA+KMeans: [tutorial](https://colab.research.google.com/drive/1DRthva1mPb2zZpYtCHi1JL9-r3M9lstC), [exercise](https://colab.research.google.com/drive/1_aywQjVtiHjG_ElG5KAdzbGi0SeRxif7)
 2. UMAP + HDBSCAN: [tutorial](https://colab.research.google.com/drive/1TCxyDt2WHRx8TEBolqRFPCGFWlXIFsFk), [exercise](https://colab.research.google.com/drive/1-coSGfOAe0gbkTagYwyIQBRUJtzzfmmH)
 
 
